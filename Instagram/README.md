@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='codepath-parstagram.gi' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='codepath-parstagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
