@@ -5,7 +5,6 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 Time spent: **10** hours spent in total
 
 ## User Stories
-
 The following **required** functionality is completed:
 
 - [X] User sees app icon in home screen and styled launch screen. (1pt)
