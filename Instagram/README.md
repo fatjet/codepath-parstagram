@@ -25,7 +25,7 @@ The following **required** functionality is completed:
 - [X] User can log out. (1pt)
 - [X] User can view comments on a post. (3pts)
 - [X] User can add a new comment. (5pts)
-- 
+
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
