@@ -30,4 +30,4 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-<img src='codepath-partstagram2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='codepath-parstagram2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
